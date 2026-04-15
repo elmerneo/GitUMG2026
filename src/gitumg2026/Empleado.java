@@ -62,6 +62,8 @@ public class Empleado {
         this.direccion = direccion;
     }
     
-    
+    public void calcularSuma(){
+      int suma = 1;
+    }
     
 }
